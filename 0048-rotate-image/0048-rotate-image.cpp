@@ -12,7 +12,7 @@ public:
         }
         for(int i=0;i<rows;i++){
             for(int j=0;j<cols;j++){
-matrix[j][rows - 1 - i] = arr[i][j];            }
+matrix[i][j] = arr[rows-1-j][i];            }
         }
     }
 };
