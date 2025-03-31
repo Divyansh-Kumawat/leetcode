@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0198-house-robber) |
 ## Dynamic Programming
 |  |
@@ -77,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
