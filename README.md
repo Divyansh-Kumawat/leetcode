@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0039-combination-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0198-house-robber) |
 ## Dynamic Programming
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0224-basic-calculator) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
