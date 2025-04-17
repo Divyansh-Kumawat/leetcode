@@ -11,26 +11,20 @@
  */
 class Solution {
 public:
-    int diameterOfBinaryTree(TreeNode* root) {
-        // Define a helper function to calculate the diameter recursively
-        int res = 0;
-        diameter(root, res);
-        return res;
+    
+
+    int findmax(TreeNode* root,int& maxi){
+        if(root==NULL) return 0;
+        
+        int lh=findmax(root->left,maxi);
+        int rh=findmax(root->right,maxi);
+        maxi=max(maxi,lh+rh);
+        return 1+max(lh,rh);
     }
-
-private:
-    int diameter(TreeNode* curr, int& res){
-        // Base case: if the current node is null, return 0
-        if (!curr) return 0;
+    int diameterOfBinaryTree(TreeNode* root) {
+        int maxi=0;
+        findmax(root,maxi);
+        return maxi;
         
-        // Recursively calculate the diameter of left and right subtrees
-        int left = diameter(curr->left, res);
-        int right = diameter(curr->right, res);
-
-        // Update the maximum diameter encountered so far
-        res = std::max(res, left + right);
-        
-        // Return the depth of the current node
-        return std::max(left, right) + 1;
     }
 };
