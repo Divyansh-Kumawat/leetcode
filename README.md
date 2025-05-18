@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0039-combination-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0198-house-robber) |
 ## Dynamic Programming
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0207-course-schedule) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
