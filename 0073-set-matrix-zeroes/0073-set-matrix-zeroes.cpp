@@ -1,45 +1,32 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        // get the number of rows
-        vector<vector<int>> arr;
-        int rows = matrix.size();
+        int n=matrix.size();
+        int m=matrix[0].size();
+        vector<vector<int>> arr(n,vector<int>(m,-1));
 
-        // Get the number of columns 
-        int cols = matrix[0].size();   
-        for(int i=0;i<rows;i++){
-            for(int j=0;j<cols;j++){
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
                 if(matrix[i][j]==0){
-                    for(int k=0;k<cols;k++){
-                        if(matrix[i][k]==0){
-                            continue;             
-                        }
-                        else{
-                            matrix[i][k]=-1000;
-                        }
+                    for(int k=0;k<m;k++){
+                        arr[i][k]=0;
                     }
-                    for(int k=0;k<rows;k++){
-                        if(matrix[k][j]==0){
-                            continue;             
-                        }
-                        else{
-                            matrix[k][j]=-1000;
-                        }
+                    for(int k=0;k<n;k++){
+                        arr[k][j]=0;
+                    }
+                }
+                else{
+                    if(arr[i][j]==-1){
+                        arr[i][j]=matrix[i][j];
+
                     }
                 }
             }
-        }     
-            for(int i=0;i<rows;i++){
-                for(int j=0;j<cols;j++){
-                    if(matrix[i][j]==-1000){
-                        matrix[i][j]=0;
-                    }
-                }
-           }
-        //
-        
-        
-        
-        
+        }
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                matrix[i][j]=arr[i][j];
+            }
+        }
     }
 };
