@@ -4,14 +4,12 @@ public:
         int n=num.length();
         int maxi=INT_MIN;
         int ans=0;
-        for(int i=n-1;i>=0;i--){
+        reverse(num.begin(),num.end());
+        for(int i=0;i<n;i++){
             int x=num[i]-'0';
             if(x%2!=0){
-                string ans="";
-                for(int j=0;j<=i;j++){
-                    ans+=num[j];
-
-                }
+                string ans=num.substr(i,n);
+                reverse(ans.begin(),ans.end());
                 return ans;
             }
 
