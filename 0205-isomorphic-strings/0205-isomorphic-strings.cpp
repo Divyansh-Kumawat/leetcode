@@ -1,38 +1,33 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-      
-        vector<pair<char,char>> arr;
-        for(int i=0;i<s.length();i++){
-            arr.push_back({s[i],t[i]});
-        }
-        for (const auto& p : arr) {
-            for (const auto& q : arr){
-                if(p.first==q.first) {
-                    if(p.second!=q.second){
-                        return false;
-                    }
-                    else{
-                        continue;
-                    }
-                }
-                else if(p.first!=q.first){
-                    if(p.second==q.second){
-                        return false;
-                    }
-                    else{
-                        continue;
-                    }
-                }
-                
-            }
-                
-            }
-            
-    
-        return true;
+        if(s.length()!=t.length()) return false;
 
-        
-        
+        map<char,char> mpp;
+        for(int i=0;i<s.length();i++){
+            char orignal=s[i];
+            char replacement=t[i];
+            if(!(mpp.find(orignal)!=mpp.end())){
+                bool valueexists=false;
+                for(auto pair: mpp){
+                    if(pair.second==replacement){
+                        valueexists=true;
+                        break;
+                    }
+                }
+                if(!valueexists){
+                    mpp[orignal]=replacement;
+                }
+                else{
+                    return false;
+                }
+            }else {
+            char mappedCharacter = mpp[orignal];
+            if (mappedCharacter != replacement) {
+                return false;
+            }
+        }
+       
+    } return true;
     }
 };
