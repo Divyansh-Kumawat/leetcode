@@ -2,10 +2,11 @@ class Solution {
 public:
     string reverseWords(string s) {
         string ans="";
+        int n=s.length();
         reverse(s.begin(),s.end());
-        for(int i=0;i<s.length();i++){
+        for(int i=0;i<n;i++){
             string word="";
-            while(i<s.length() && s[i]!=' '){
+            while(i<n && s[i]!=' '){
                 word+=s[i];
                 i++;
             }
