@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0022-generate-parentheses) |
