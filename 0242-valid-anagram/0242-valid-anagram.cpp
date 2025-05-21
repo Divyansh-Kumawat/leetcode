@@ -1,22 +1,43 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if(s==t){
-            return true;
+        map<char,int> mpps;
+        map<char,int> mppt;
+        for(char c:s){
+            if((mpps.find(c)!=mpps.end())){
+                mpps[c]++;
+            }
+            else{
+                mpps[c]=1;
+            }
         }
-        if(s.length()!=t.length()){
-            return false;
+        for(char c:t){
+            if((mppt.find(c)!=mppt.end())){
+                mppt[c]++;
+            }
+            else{
+                mppt[c]=1;
+            }
         }
-        sort(s.begin(), s.end());
-          sort(t.begin(), t.end());
+        int n=mpps.size();
+        int m=mppt.size();
+        if(n!=m) return false;
+        int cnt=0;
 
-          // Case 2: check if every character of str1 and str2 matches with each other
-          for (int i = 0; i < s.length(); i++)
-          {
-            if (s[i] != t[i])
-              return false;
-          }
-          return true;
-        
+        for(const auto& pair: mpps){
+            if(mppt.find(pair.first)!=mppt.end()){
+                if(pair.second==mppt[pair.first]){
+                    cnt++;
+                }
+                else{
+                    return false;
+                }
+            }
+            else{
+                return false;
+            }
+        }
+        if(cnt==n)return true;
+        return false;
     }
 };
