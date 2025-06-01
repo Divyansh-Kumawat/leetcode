@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0044-wildcard-matching) |
+| [0131-palindrome-partitioning](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0224-basic-calculator) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0044-wildcard-matching) |
+| [0131-palindrome-partitioning](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0198-house-robber) |
 ## Greedy
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0216-combination-sum-iii) |
 ## Tree
 |  |
