@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1078-remove-outermost-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
@@ -199,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
