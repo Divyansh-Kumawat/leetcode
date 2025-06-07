@@ -1,37 +1,35 @@
 class Solution {
 public:
-    std::string removeKdigits(std::string num, int k) {
-        std::string result = "";
-        
-        // Edge case: if k equals the number of digits, return "0"
-        if (num.size() == k) {
-            return "0";
-        }
+    string removeKdigits(string num, int k) {
+        int n = num.size();
+        stack<char> stk;
 
-        // Iterate through each digit in the input string
-        for (char digit : num) {
-            // Remove the last digit in result if it's greater than the current digit and we still have k removals left
-            while (!result.empty() && k > 0 && result.back() > digit) {
-                result.pop_back();
+        for (int i = 0; i < n; i++) {
+            while (!stk.empty() && k > 0 && stk.top() > num[i]) {
+                stk.pop();
                 k--;
             }
-            result.push_back(digit); // Add the current digit to the result
+            stk.push(num[i]);
         }
 
-        // If k is still greater than 0, remove the last k digits
-        while (k > 0 && !result.empty()) {
-            result.pop_back();
+        while (k > 0 && !stk.empty()) {
+            stk.pop();
             k--;
         }
 
-        // Remove leading zeros
-        int start = 0;
-        while (start < result.size() && result[start] == '0') {
-            start++;
+        string res = "";
+        while (!stk.empty()) {
+            res += stk.top();
+            stk.pop();
         }
-        result = result.substr(start);
+        reverse(res.begin(), res.end());
 
-        // If the result is empty, return "0"
-        return result.empty() ? "0" : result;
+        // Remove leading zeros
+        int i = 0;
+        while (i < res.size() && res[i] == '0') i++;
+
+        res = res.substr(i);
+        return res.empty() ? "0" : res;
+            
     }
 };
