@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0216-combination-sum-iii) |
+| [0503-next-greater-element-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0503-next-greater-element-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
