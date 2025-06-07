@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0044-wildcard-matching) |
+| [0402-remove-k-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0402-remove-k-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
