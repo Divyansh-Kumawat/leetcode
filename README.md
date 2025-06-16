@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0735-asteroid-collision) |
+| [0876-hand-of-straights](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0876-hand-of-straights) |
 | [0943-sum-of-subarray-minimums](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0876-hand-of-straights) |
 | [2032-largest-odd-number-in-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Bucket Sort
 |  |
