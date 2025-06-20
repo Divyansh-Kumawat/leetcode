@@ -11,18 +11,16 @@
  */
 class Solution {
 public:
-    void func(TreeNode* node,int level,vector<int>& ans){
-        if(node==NULL) return;
-        if(level==ans.size()) ans.push_back(node->val);
-        func(node->right,level+1,ans);
-        func(node->left,level+1,ans);
-        
+    void view(TreeNode* root,vector<int> &ans,int level){
+        if(root==NULL ) return ;
+        if(ans.size()==level) ans.push_back(root->val);
+        view(root->right,ans,level+1);
+        view(root->left,ans,level+1);
+      
     }
     vector<int> rightSideView(TreeNode* root) {
-        vector<int> ans;
-        func(root,0,ans);
-        return ans;
-        
-        
+         vector<int> ans;
+         view(root,ans,0);
+         return ans;
     }
 };
