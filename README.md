@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0207-course-schedule) |
+| [0257-binary-tree-paths](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
