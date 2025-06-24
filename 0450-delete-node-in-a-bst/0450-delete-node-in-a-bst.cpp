@@ -11,31 +11,28 @@
  */
 class Solution {
 public:
+    TreeNode* findRight(TreeNode* root){
+        while(root!=NULL && root->right){
+            root=root->right;
+        }
+        return root;
+    }
     TreeNode* helper(TreeNode* root){
-        if(root->left ==NULL) return root->right;
-        else if(root->right ==NULL) return root->left;
+        if (root->left==NULL) return root->right;
+        if(root->right==NULL) return root->left;
         TreeNode* rightChild=root->right;
-        TreeNode* lastRight= findLastRight(root->left);
-        lastRight->right=rightChild;
+        TreeNode* node=findRight(root->left);
+        node->right=rightChild;
         return root->left;
+
     }
-    
-    TreeNode* findLastRight(TreeNode* root){
-        if(root->right==NULL){
-            return root;
-        }
-        return findLastRight(root->right);
-    }
-    
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(root==NULL) return NULL;
-        if(root->val==key){
-            return helper(root);
-            
-        }
-        TreeNode* dummy =root;
+        if (root==NULL) return NULL;
+        if(root->val==key) return helper(root);
+        TreeNode* temp=root;
         while(root!=NULL){
-            if(root->val>key){
+            
+            if(key<root->val){
                 if(root->left!=NULL && root->left->val==key){
                     root->left=helper(root->left);
                     break;
@@ -50,6 +47,6 @@ public:
                 else root=root->right;
             }
         }
-        return dummy;
+        return temp;
     }
 };
