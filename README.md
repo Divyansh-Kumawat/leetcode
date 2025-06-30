@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0876-hand-of-straights) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -351,12 +355,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Quickselect
 |  |
 | ------- |
