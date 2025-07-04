@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0079-word-search) |
+| [1036-rotting-oranges](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
