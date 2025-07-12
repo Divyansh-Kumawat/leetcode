@@ -1,47 +1,33 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int n=mat.size();
-        int m=mat[0].size();
-        vector<vector<int>> vis(n,vector<int>(m,0));
-        vector<vector<int>> dist(n,vector<int>(m,0));
+        int n = mat.size(), m = mat[0].size();
+        vector<vector<int>> dist(n, vector<int>(m, INT_MAX));
+        queue<pair<int,int>> q;
 
-        
-        queue<pair<pair<int,int>,int>> q;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(mat[i][j]==0){
-                    q.push({{i,j},0});
-                    vis[i][j]=1;
+        // 1. Push every 0 into the queue (source layer) and mark its distance 0
+        for (int i = 0; i < n; ++i)
+            for (int j = 0; j < m; ++j)
+                if (mat[i][j] == 0) {
+                    dist[i][j] = 0;
+                    q.push({i, j});
                 }
-                else{
-                    vis[i][j]=0;
-                }
-            }
-        }
-        int drow[4]={-1,0,1,0};
-        int dcol[4]={0,1,0,-1};
-    
-        
-        while(!q.empty()){
-            int row=q.front().first.first;
-            int col=q.front().first.second;
-            int currdist=q.front().second;
-            q.pop();
-            dist[row][col]=currdist;
-            for(int i=0;i<4;i++){
-                int nrow=row+drow[i];
-                int ncol=col+dcol[i];
-                
-                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && vis[nrow][ncol]==0){
-                    vis[nrow][ncol] = 1;
-                    q.push({{nrow,ncol},currdist+1});
-                    
+
+        const int dx[4] = {1, 0, -1, 0};
+        const int dy[4] = {0, 1, 0, -1};
+
+        // 2. Multisource BFS
+        while (!q.empty()) {
+            auto [x, y] = q.front(); q.pop();
+            for (int k = 0; k < 4; ++k) {
+                int nx = x + dx[k], ny = y + dy[k];
+                if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;      // bounds
+                if (dist[nx][ny] > dist[x][y] + 1) {                        // relax
+                    dist[nx][ny] = dist[x][y] + 1;
+                    q.push({nx, ny});
                 }
             }
-           
         }
         return dist;
-        
     }
 };
