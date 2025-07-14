@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1073-number-of-enclaves) |
 ## Simulation
 |  |
 | ------- |
@@ -407,4 +411,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
