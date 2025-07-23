@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
