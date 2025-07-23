@@ -2,11 +2,9 @@ class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
         map<int,int> mpp;
-        for(int i=0;i<bills.size();i++){
-            // if(mpp.empty()){
-            //     mpp[bills[i]]++;
-            //     continue;
-            // }
+        int n=bills.size();
+        for(int i=0;i<n;i++){
+            
             mpp[bills[i]]++;
             if(bills[i]==10){
                 if(mpp[5]!=0){
