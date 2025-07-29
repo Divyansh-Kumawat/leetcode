@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0231-power-of-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Prefix Sum
 |  |
 | ------- |
