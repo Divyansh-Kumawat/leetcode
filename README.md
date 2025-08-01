@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0231-power-of-two) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -488,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
