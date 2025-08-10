@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0621-task-scheduler) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
 |  |
