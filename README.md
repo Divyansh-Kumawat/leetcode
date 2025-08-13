@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0326-power-of-three) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
