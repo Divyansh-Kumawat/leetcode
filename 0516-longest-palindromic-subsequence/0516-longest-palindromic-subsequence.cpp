@@ -8,24 +8,19 @@ public:
     //     return dp[i][j]=max(lps(i+1,j,s,dp),lps(i,j-1,s,dp));
     // }
     int longestPalindromeSubseq(string s) {
+        string temp = s;
+        reverse(temp.begin() , temp.end());
         int n = s.size();
-        vector<vector<int>> dp(n, vector<int>(n, 0));
-
-        // every single character is a palindrome of length 1
-        for (int i = 0; i < n; i++) dp[i][i] = 1;
-
-        // fill table from shorter substrings to longer
-        for (int len = 2; len <= n; len++) {
-            for (int i = 0; i + len - 1 < n; i++) {
-                int j = i + len - 1;
-                if (s[i] == s[j]) {
-                    dp[i][j] = 2 + (len == 2 ? 0 : dp[i+1][j-1]);
-                } else {
-                    dp[i][j] = max(dp[i+1][j], dp[i][j-1]);
+        vector<vector<int>> dp(n + 1 , vector<int>(n + 1 , 0));
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=n;j++){
+                if(s[i-1]==temp[j-1]){
+                    dp[i][j] = 1 + dp[i-1][j-1];
+                }else{
+                    dp[i][j] = max(dp[i-1][j] , dp[i][j-1]);
                 }
             }
         }
-
-        return dp[0][n-1];
+        return dp[n][n];
     }
 };
