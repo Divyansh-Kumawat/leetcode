@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0542-01-matrix) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0130-surrounded-regions) |
+| [0498-diagonal-traverse](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0735-asteroid-collision) |
 ## Trie
 |  |
