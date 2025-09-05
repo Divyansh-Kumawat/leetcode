@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1046-max-consecutive-ones-iii) |
