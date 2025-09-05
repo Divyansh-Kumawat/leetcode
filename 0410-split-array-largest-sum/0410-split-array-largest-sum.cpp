@@ -1,46 +1,31 @@
 class Solution {
 public:
-    int fun(vector<int>& nums, int max_sum){
-        int n=1;
-        int asum=0;
-        for(int i=0;i<nums.size();i++){
-            if(asum+nums[i]<=max_sum){
-                asum+=nums[i];
-                
-            }
-            else{
-                n++;
-                asum=nums[i];
-            }
-        }
-        return n;
-    }
-        
-    int splitArray(vector<int>& nums, int k) {
-        if(k>nums.size()){
-            return -1;
-        }
-        int maxi=INT_MIN;
+    bool canarrange(vector<int> nums,int k,int maxsum){
         int sum=0;
+        int cnt=1;
+        if(nums.size()==k) return -1;
         for(int i=0;i<nums.size();i++){
-            sum+=nums[i];
-            maxi=max(nums[i],maxi);
-            
-        }
-        if(k==nums.size()){
-            return maxi;
-        }
-        int low= maxi;
-        int high=sum;
-        while(low<=high){
-            int mid=(low +high)/2;
-            int nos=fun(nums,mid);
-            if(nos>k){
-                low=mid+1;
+            if(sum+nums[i]<=maxsum){
+                sum+=nums[i];
             }
             else{
+                cnt++;;
+                sum=nums[i];
+            }
+        }
+        return cnt<=k;
+    }
+    int splitArray(vector<int>& nums, int k) {
+        int low=*max_element(nums.begin(),nums.end());
+        int high=accumulate(nums.begin(),nums.end(),0);
+        while(low<=high){
+            int mid=(low+high)/2;
+            if(canarrange(nums,k,mid)){
                 high=mid-1;
-            }         
+            }
+            else{
+                low=low+1;
+            }
         }
         return low;
     }
