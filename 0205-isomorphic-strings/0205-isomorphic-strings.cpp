@@ -1,33 +1,20 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        if(s.length()!=t.length()) return false;
+        int n=s.size();
+        int m=t.size();
+        if(n!=m) return false;
+        char st[256]={0};
+        char ts[256]={0};
 
-        map<char,char> mpp;
-        for(int i=0;i<s.length();i++){
-            char orignal=s[i];
-            char replacement=t[i];
-            if(!(mpp.find(orignal)!=mpp.end())){
-                bool valueexists=false;
-                for(auto pair: mpp){
-                    if(pair.second==replacement){
-                        valueexists=true;
-                        break;
-                    }
-                }
-                if(!valueexists){
-                    mpp[orignal]=replacement;
-                }
-                else{
-                    return false;
-                }
-            }else {
-            char mappedCharacter = mpp[orignal];
-            if (mappedCharacter != replacement) {
-                return false;
-            }
+        for(int i=0;i<n;i++){
+            char a=s[i];
+            char b=t[i];
+            if((st[a] && st[a]!=b) || ts[b] && ts[b]!=a) return false;
+
+            st[a]=b;
+            ts[b]=a;
         }
-       
-    } return true;
+        return true;
     }
 };
