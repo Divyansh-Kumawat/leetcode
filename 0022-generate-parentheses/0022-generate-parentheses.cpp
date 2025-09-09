@@ -1,22 +1,27 @@
 class Solution {
 public:
-    void generate(int n,vector<string> & ans,int o,int c,string s){
-        if(s.size()==2*n){
-            ans.push_back(s);
+    void func(int n,int o,int c,vector<string> &ans,string str){
+        if(str.size()==2*n){
+            ans.push_back(str);
             return;
         }
         if(o<n){
-            generate(n,ans,o+1,c,s+'(');
+            func(n,o+1,c,ans,str+'(');
+
         }
         if(c<o){
-            generate(n,ans,o,c+1,s+')');
+            func(n,o,c+1,ans,str+')');
+
         }
+
     }
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
-        string s="";
-        int o=0;int c=0;
-        generate(n,ans,o,c,s);
+        if(n==0) return ans;
+        string str="";
+        int o=0;
+        int c=0;
+        func(n,o,c,ans,str);
         return ans;
     }
 };
