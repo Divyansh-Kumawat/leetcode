@@ -1,24 +1,20 @@
 class Solution {
 public:
-    void generate(vector<int>&nums , vector<vector<int>>& ans,int i,vector<int>& temp){
-        if(i==nums.size()){
+    void func(vector<int> nums,vector<vector<int>> &ans,vector<int> temp,int i,int n){
+        if(i==n){
             ans.push_back(temp);
-            return ;
+            return;
         }
         temp.push_back(nums[i]);
-        generate(nums,ans,i+1,temp);
+        func(nums,ans,temp,i+1,n);
         temp.pop_back();
-        generate(nums,ans,i+1,temp);
-
-        
+        func(nums,ans,temp,i+1,n);
     }
-
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
         vector<int> temp;
-        generate(nums,ans,0,temp);
+        int i=0,n=nums.size();
+        func(nums,ans,temp,i,n);
         return ans;
-
-        
     }
 };
