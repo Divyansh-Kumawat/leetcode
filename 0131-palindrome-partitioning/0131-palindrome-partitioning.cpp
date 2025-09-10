@@ -1,28 +1,30 @@
 class Solution {
 public:
-    void func(int index,string s,vector<string>& path,vector<vector<string>>& res){
-        if(index==s.size()){
-            res.push_back(path);
-            return;
-        }
-        for(int i=index;i<s.size();i++){
-            if(isPalindrome(s,index,i)){
-                path.push_back(s.substr(index,i-index+1));
-                func(i+1,s,path,res);
-                path.pop_back();
-            }
-        }
-    }
-    bool isPalindrome(string s,int start,int end){
+    bool palindrome(string s,int start,int end){
         while(start<=end){
             if(s[start++]!=s[end--]) return false;
         }
         return true;
     }
+    void func(string s,vector<vector<string>>& ans,int ind,vector<string> &path){
+        if(ind==s.size()){
+            ans.push_back(path);
+            return;
+        }
+        for(int i=ind;i<s.size();i++){
+            if(palindrome(s,ind,i)){
+                path.push_back(s.substr(ind,i-ind+1));
+                func(s,ans,i+1,path);
+                path.pop_back();
+            }
+        }
+        
+
+    }
     vector<vector<string>> partition(string s) {
-        vector<vector<string>> res;
+        vector<vector<string>> ans;
         vector<string> path;
-        func(0,s,path,res);
-        return res;
+        func(s,ans,0,path);
+        return ans;
     }
 };
