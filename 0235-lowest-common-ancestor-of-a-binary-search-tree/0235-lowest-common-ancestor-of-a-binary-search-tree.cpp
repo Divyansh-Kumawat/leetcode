@@ -9,20 +9,22 @@
  */
 
 class Solution {
-public:
-    TreeNode* ancestor(TreeNode* root,TreeNode* p,TreeNode* q){
-        if(root==NULL ) return NULL;
-       
-        if(root->val>p->val && root->val>q->val){
-             return ancestor(root->left,p,q);
+public: 
+    TreeNode* lca(TreeNode* root, TreeNode* p, TreeNode* q){
+        while(true){
+            if(root->val<p->val && root->val<q->val){
+                root=root->right;
+            }
+            else if(root->val>p->val && root->val>q->val){
+                root=root->left;
+            }
+            else break;
         }
-        else if(root->val<p->val && root->val<q->val){
-            return ancestor(root->right,p,q);
-        }
-        return root;
         
+        return root;
     }
+
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        return ancestor(root,p,q);
+        return lca(root,p,q);
     }
 };
