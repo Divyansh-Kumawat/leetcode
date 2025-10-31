@@ -2,13 +2,12 @@ class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
         vector<int> ans;
-        map<int,int> mpp;
+        vector<int> hash(100,0);
         for(int it:nums){
-            if(mpp.find(it)!=mpp.end()){
+            if(hash[it]==1){
                 ans.push_back(it);
-            }
-            else{
-                mpp[it]++;
+            }else{
+                hash[it]=1;
             }
         }
         return ans;
