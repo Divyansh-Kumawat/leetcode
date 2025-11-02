@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -469,12 +470,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0735-asteroid-collision) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
