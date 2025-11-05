@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
