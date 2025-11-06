@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -594,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -618,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
 |  |
 | ------- |
