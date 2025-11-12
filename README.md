@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
@@ -634,5 +636,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
