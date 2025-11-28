@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0455-assign-cookies) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0120-triangle) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0347-top-k-frequent-elements) |
