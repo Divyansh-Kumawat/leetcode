@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0061-rotate-list) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0042-trapping-rain-water) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0402-remove-k-digits) |
