@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Stack
 |  |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Prefix Sum
