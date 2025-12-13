@@ -1,74 +1,45 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    // Comparator for outer priority queue
-    struct OuterCompare {
-        bool operator()(
-            const pair<int, priority_queue<string, vector<string>, greater<string>>>& a,
-            const pair<int, priority_queue<string, vector<string>, greater<string>>>& b
-        ) const {
-            return a.first > b.first; // min-heap based on business priority
-        }
+    vector<string> validateCoupons(vector<string>& code,
+                               vector<string>& businessLine,
+                               vector<bool>& isActive) {
+
+    unordered_set<string> validBL = {
+        "electronics", "grocery", "pharmacy", "restaurant"
     };
 
-    vector<string> validateCoupons(vector<string>& code,
-                                   vector<string>& businessLine,
-                                   vector<bool>& isActive) {
-
-        unordered_map<string, int> priority = {
-            {"electronics", 0},
-            {"grocery", 1},
-            {"pharmacy", 2},
-            {"restaurant", 3}
-        };
-
-        auto isValidCode = [&](string &s) {
-            if (s.empty()) return false;
-            for (char c : s) {
-                if (!isalnum(c) && c != '_')
-                    return false;
-            }
-            return true;
-        };
-
-        // Inner PQs (lexicographical order)
-        vector<priority_queue<string, vector<string>, greater<string>>> innerPQ(4);
-
-        for (int i = 0; i < code.size(); i++) {
-            if (!isActive[i]) continue;
-            if (!isValidCode(code[i])) continue;
-            if (!priority.count(businessLine[i])) continue;
-
-            innerPQ[priority[businessLine[i]]].push(code[i]);
+    auto isValidCode = [&](string &s) {
+        if (s.empty()) return false;
+        for (char c : s) {
+            if (!isalnum(c) && c != '_') return false;
         }
+        return true;
+    };
 
-        // Outer PQ (business priority)
-        priority_queue<
-            pair<int, priority_queue<string, vector<string>, greater<string>>>,
-            vector<pair<int, priority_queue<string, vector<string>, greater<string>>>>,
-            OuterCompare
-        > pq;
+    vector<string> electronics, grocery, pharmacy, restaurant;
 
-        for (int i = 0; i < 4; i++) {
-            if (!innerPQ[i].empty()) {
-                pq.push({i, innerPQ[i]});
-            }
-        }
+    for (int i = 0; i < code.size(); i++) {
+        if (!isActive[i] || !isValidCode(code[i]) || !validBL.count(businessLine[i]))
+            continue;
 
-        vector<string> result;
-
-        while (!pq.empty()) {
-            auto [p, codesPQ] = pq.top();
-            pq.pop();
-
-            while (!codesPQ.empty()) {
-                result.push_back(codesPQ.top());
-                codesPQ.pop();
-            }
-        }
-
-        return result;
+        if (businessLine[i] == "electronics") electronics.push_back(code[i]);
+        else if (businessLine[i] == "grocery") grocery.push_back(code[i]);
+        else if (businessLine[i] == "pharmacy") pharmacy.push_back(code[i]);
+        else restaurant.push_back(code[i]);
     }
+
+    sort(electronics.begin(), electronics.end());
+    sort(grocery.begin(), grocery.end());
+    sort(pharmacy.begin(), pharmacy.end());
+    sort(restaurant.begin(), restaurant.end());
+
+    vector<string> ans;
+    ans.insert(ans.end(), electronics.begin(), electronics.end());
+    ans.insert(ans.end(), grocery.begin(), grocery.end());
+    ans.insert(ans.end(), pharmacy.begin(), pharmacy.end());
+    ans.insert(ans.end(), restaurant.begin(), restaurant.end());
+
+    return ans;
+}
+
 };
