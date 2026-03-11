@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0013-roman-to-integer) |
@@ -35,8 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3606-coupon-code-validator) |
 | [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -45,8 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -60,8 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0050-powx-n) |
@@ -79,8 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0044-wildcard-matching) |
@@ -89,19 +89,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0260-single-number-iii) |
+| [1009-complement-of-base-10-integer](https://github.com/Divyansh-Kumawat/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0008-string-to-integer-atoi) |
@@ -148,8 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -165,14 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -185,12 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0039-combination-sum) |
@@ -275,8 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3606-coupon-code-validator) |
 | [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -322,8 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -342,8 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0042-trapping-rain-water) |
@@ -363,8 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0039-combination-sum) |
@@ -380,8 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0100-same-tree) |
@@ -405,8 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0099-recover-binary-search-tree) |
@@ -434,8 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0100-same-tree) |
@@ -459,8 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -485,8 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0744-network-delay-time) |
@@ -496,14 +497,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0063-unique-paths-ii) |
@@ -521,8 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0735-asteroid-collision) |
@@ -530,18 +531,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0812-rotate-string) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -557,13 +558,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3606-coupon-code-validator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3606-coupon-code-validator) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0621-task-scheduler) |
@@ -571,30 +572,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -608,8 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3453-separate-squares-i](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3453-separate-squares-i) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -621,13 +622,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -638,16 +639,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Iterator
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0801-is-graph-bipartite) |
@@ -655,42 +656,42 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0744-network-delay-time](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0070-climbing-stairs) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0062-unique-paths) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3863-power-grid-maintenance](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
