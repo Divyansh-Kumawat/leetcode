@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2751-robot-collisions](https://github.com/Divyansh-Kumawat/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Divyansh-Kumawat/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3453-separate-squares-i](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3453-separate-squares-i) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2751-robot-collisions](https://github.com/Divyansh-Kumawat/leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0735-asteroid-collision) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2751-robot-collisions](https://github.com/Divyansh-Kumawat/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 | Problem Name | Difficulty |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2751-robot-collisions](https://github.com/Divyansh-Kumawat/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Divyansh-Kumawat/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3606-coupon-code-validator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3606-coupon-code-validator) |
 ## Bucket Sort
