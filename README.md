@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Divyansh-Kumawat/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Divyansh-Kumawat/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Divyansh-Kumawat/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3453-separate-squares-i](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3453-separate-squares-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Divyansh-Kumawat/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Divyansh-Kumawat/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Divyansh-Kumawat/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Divyansh-Kumawat/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Divyansh-Kumawat/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
