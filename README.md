@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0621-task-scheduler) |
+| [0874-walking-robot-simulation](https://github.com/Divyansh-Kumawat/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0876-hand-of-straights](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0876-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0874-walking-robot-simulation](https://github.com/Divyansh-Kumawat/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0876-hand-of-straights](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/Divyansh-Kumawat/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2751-robot-collisions](https://github.com/Divyansh-Kumawat/leetcode/tree/main/2751-robot-collisions/) | Hard |
