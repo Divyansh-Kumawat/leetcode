@@ -1,24 +1,20 @@
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-        if(s==goal){
-            return true;}
-        queue<char> q1,q2;
+        if(s.size()!=goal.size()) return false;
+        queue<int> q1;
+        queue<int> q2;
         for(int i=0;i<s.size();i++){
             q1.push(s[i]);
-        }
-        for(int i=0;i<goal.size();i++){
             q2.push(goal[i]);
         }
-        int k=goal.size()-1;
-        while(k!=0){
-            char c=q1.front();
+        for(int i=0;i<s.size();i++){
+            char ch=q1.front();
             q1.pop();
-            q1.push(c);
+            q1.push(ch);
             if(q1==q2){
                 return true;
             }
-            k--;
         }
         return false;
     }
