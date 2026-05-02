@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0326-power-of-three) |
+| [0788-rotated-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyansh-Kumawat/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Divyansh-Kumawat/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/Divyansh-Kumawat/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Divyansh-Kumawat/leetcode/tree/master/0967-minimum-falling-path-sum) |
